@@ -1,0 +1,1 @@
+Demo project, that shows some Kotlin's features
